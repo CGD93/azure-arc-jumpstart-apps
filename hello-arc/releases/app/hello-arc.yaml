@@ -18,5 +18,4 @@ spec:
     replicaCount: 5
     env:
       name: MESSAGE
-      value: Welcome to Azure Arc GitOps Demo! test choi!
-      value: test-Choi-AKS
+      value: SAMSUNG-DX Test
